@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Wallet.AppCode.Validation">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAQAQAAAAgAEAIAAAAAAIAgAA=</HashCode>
+      <FileName>AppCode\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.BillDebitCreditForm">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEIACIGIiCAABAQjICIAAACFAACDAgDgQAAAACCCAg=</HashCode>
+      <FileName>Forms\BillDebitCreditForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.BillForm">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gCEIACImIiCAIBAQnICIAAQCUgAACAAQgAAIAECgCAA=</HashCode>
+      <FileName>Forms\BillForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.CategoryForm">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAEICAYkAKEAIBAQnKCAAgACAgAQSAAAgAAAAECACAA=</HashCode>
+      <FileName>Forms\CategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.RaportCategoryForm">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAASAEAAAAAACAAAACBgAAAAAAAAAAAEADAAA=</HashCode>
+      <FileName>Forms\RaportCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.RaportDayForm">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACIEABAACACAAAACBAAAAAAgACAAAAADAAI=</HashCode>
+      <FileName>Forms\RaportDayForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.SearchCategoryForm">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gCAAAAICACAEABAAAACAAAACAgAAAAAwAAAAAEABAAI=</HashCode>
+      <FileName>Forms\SearchCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.TransferForm">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAEAAAIGoiCAABASqACIAAAKCAACDggBgSQAAQCADAg=</HashCode>
+      <FileName>Forms\TransferForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.UpdateBillForm">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gCFABAIEASAgIBAQBICAAAASEgAACAAQAAAAAECAAAA=</HashCode>
+      <FileName>Forms\UpdateBillForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Forms.UpdateCategoryForm">
+    <Position X="7.5" Y="5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAFADAIEASAgAAAQBICAAgASAAAACAAAAAAAAACAAAA=</HashCode>
+      <FileName>Forms\UpdateCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Program">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.WalletMDI">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AICJgDAABDAAAAAACASSEAACAAgCABABgCgAAAAgAAA=</HashCode>
+      <FileName>WalletMDI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Properties.Settings">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Provider.BillProvider">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Provider\BillProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Provider.CategoryProvider">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Provider\CategoryProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet.Provider.StoryProvider">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Provider\StoryProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bill">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAgAgQQAACAAAAAAAAAACAEACIAAQCCAIA=</HashCode>
+      <FileName>Provider\BillProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Category">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAgAgAAAAAAAAAAACAAAAAEAAAAAQCAAAA=</HashCode>
+      <FileName>Provider\CategoryProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Story">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAAACAAAAAAAAAACAAACIAAAiAAKA=</HashCode>
+      <FileName>Provider\StoryProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
